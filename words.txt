@@ -1,9 +1,9 @@
 banana
-uva
-laranja
-ciriguela
+grape
+orange
+melon
 damasco
 tamara
-castanha
-noz
+strawberry
+coconut
 
