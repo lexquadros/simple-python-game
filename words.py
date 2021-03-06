@@ -4,7 +4,7 @@ import random
 
 def play():
     print("*********************************")
-    print("***Welcome to SPELLING WORDS game!***")
+    print("***Welcome to GUESS THE WORD game!***")
     print("*********************************")
 
 
